@@ -1,5 +1,5 @@
 # restaurant-menu
-# SuperSlot React JS Restaurant Menu and Online food Booking
+# mukesh786yadav React JS Restaurant Menu and Online food Booking
 
 ![SuperSlot React JS Restaurant Menu](restaurant-menu.png?raw=true "SuperSlot React JS Restaurant Menu")
 
