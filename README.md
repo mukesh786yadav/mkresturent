@@ -3,7 +3,7 @@
 
 ![SuperSlot React JS Restaurant Menu](restaurant-menu.png?raw=true "SuperSlot React JS Restaurant Menu")
 
-### <a href="https://restaurant-manu-97dfe6.netlify.app">LIVE DEMO</a>
+### <a href="https://effervescent-gnome-dbbde0.netlify.app">LIVE DEMO</a>
 
 ## Restaurant Menu and Online food Booking Description
 
